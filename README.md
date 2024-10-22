@@ -24,3 +24,5 @@ Este projeto realiza a leitura de arquivos CSV com dados dos jogos do Campeonato
 1. Clone o repositório:
    ```bash
    git clone https://github.com/Irving1409/Projeto-ada-tecnicasDeProgramacao-I
+
+2. Executar o código na IDE IntelliJ
